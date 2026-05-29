@@ -1,5 +1,6 @@
 # Safetyon
 
+![alt text](safetyon_main.png "Logo Title Text 1")
   A typeface inspired by the diagrams on Ryanair safety cards — specifically
   the
   figure of a woman crossing her arms while sliding down an emergency chute,
